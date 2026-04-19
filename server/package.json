@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "@clerk/express": "^1.7.26",
-    "@neondatabase/serverless": "^1.0.1",
-    "@prisma/adapter-neon": "^6.15.0",
+    "@neondatabase/serverless": "^1.1.0",
+    "@prisma/adapter-neon": "^6.19.3",
     "@prisma/client": "5.22.0",
     "cors": "^2.8.5",
     "dotenv": "^17.2.1",
@@ -27,6 +27,6 @@
     "multer": "^2.0.2",
     "nodemailer": "^7.0.9",
     "prisma": "5.22.0",
-    "ws": "^8.18.3"
+    "ws": "^8.20.0"
   }
 }
